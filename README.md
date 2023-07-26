@@ -30,10 +30,7 @@ Welcome to the Online Exam System! This system allows users to take exams online
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/online-exam-system.git`
-2. Install dependencies: `npm install`
-3. Start the server: `npm start`
-4. Access the application at `http://localhost:3000`
+No installation required. The code can be run directly using Java.
 
 Happy Exam Taking!
 
